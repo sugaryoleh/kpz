@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VdPI1lFMX3t7JLppZsvR9DCKn6moKb6jON9h53p+ZnTa+KF7kxYBYarpbmUhenRM9FTIdWgifg9AMD62O3L0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sugar\\source\\repos\\linq_training\\GeolocationManager\\GeolocationManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sugar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sugar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sugar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

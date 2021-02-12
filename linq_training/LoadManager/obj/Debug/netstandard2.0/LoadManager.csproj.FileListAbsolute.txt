@@ -1,0 +1,12 @@
+C:\Users\sugar\source\repos\linq_training\LoadManager\bin\Debug\netstandard2.0\LoadManager.deps.json
+C:\Users\sugar\source\repos\linq_training\LoadManager\bin\Debug\netstandard2.0\LoadManager.dll
+C:\Users\sugar\source\repos\linq_training\LoadManager\bin\Debug\netstandard2.0\LoadManager.pdb
+C:\Users\sugar\source\repos\linq_training\LoadManager\obj\Debug\netstandard2.0\LoadManager.AssemblyInfoInputs.cache
+C:\Users\sugar\source\repos\linq_training\LoadManager\obj\Debug\netstandard2.0\LoadManager.AssemblyInfo.cs
+C:\Users\sugar\source\repos\linq_training\LoadManager\obj\Debug\netstandard2.0\LoadManager.csproj.CoreCompileInputs.cache
+C:\Users\sugar\source\repos\linq_training\LoadManager\obj\Debug\netstandard2.0\LoadManager.dll
+C:\Users\sugar\source\repos\linq_training\LoadManager\obj\Debug\netstandard2.0\LoadManager.pdb
+C:\Users\sugar\source\repos\linq_training\LoadManager\bin\Debug\netstandard2.0\GeolocationManager.dll
+C:\Users\sugar\source\repos\linq_training\LoadManager\bin\Debug\netstandard2.0\GeolocationManager.pdb
+C:\Users\sugar\source\repos\linq_training\LoadManager\obj\Debug\netstandard2.0\LoadManager.csprojAssemblyReference.cache
+C:\Users\sugar\source\repos\linq_training\LoadManager\obj\Debug\netstandard2.0\LoadManager.csproj.CopyComplete

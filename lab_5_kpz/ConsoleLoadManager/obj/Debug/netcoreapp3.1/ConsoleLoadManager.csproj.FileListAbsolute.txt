@@ -1,0 +1,16 @@
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\bin\Debug\netcoreapp3.1\ConsoleLoadManager.exe
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\bin\Debug\netcoreapp3.1\ConsoleLoadManager.deps.json
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\bin\Debug\netcoreapp3.1\ConsoleLoadManager.runtimeconfig.json
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\bin\Debug\netcoreapp3.1\ConsoleLoadManager.runtimeconfig.dev.json
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\bin\Debug\netcoreapp3.1\ConsoleLoadManager.dll
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\bin\Debug\netcoreapp3.1\ConsoleLoadManager.pdb
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\obj\Debug\netcoreapp3.1\ConsoleLoadManager.csprojAssemblyReference.cache
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\obj\Debug\netcoreapp3.1\ConsoleLoadManager.AssemblyInfoInputs.cache
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\obj\Debug\netcoreapp3.1\ConsoleLoadManager.AssemblyInfo.cs
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\obj\Debug\netcoreapp3.1\ConsoleLoadManager.csproj.CoreCompileInputs.cache
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\obj\Debug\netcoreapp3.1\ConsoleLoadManager.csproj.CopyComplete
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\obj\Debug\netcoreapp3.1\ConsoleLoadManager.dll
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\obj\Debug\netcoreapp3.1\ConsoleLoadManager.pdb
+C:\Users\sugar\source\repos\lab_5_kpz\ConsoleLoadManager\obj\Debug\netcoreapp3.1\ConsoleLoadManager.genruntimeconfig.cache

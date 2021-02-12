@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ku09uFK2DS6oNpbavjvYY4FZPbXSwcyBgDASFBfp9CPHBbEmygwD9rf31iR9qAXXeKSt0/hz/dPmikairVuIug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sugar\\source\\repos\\lab_5_kpz\\ConsoleLoadManager\\ConsoleLoadManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sugar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sugar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

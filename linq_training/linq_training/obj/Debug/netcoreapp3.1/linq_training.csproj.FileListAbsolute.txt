@@ -1,0 +1,15 @@
+C:\Users\sugar\source\repos\linq_training\linq_training\bin\Debug\netcoreapp3.1\linq_training.exe
+C:\Users\sugar\source\repos\linq_training\linq_training\bin\Debug\netcoreapp3.1\linq_training.deps.json
+C:\Users\sugar\source\repos\linq_training\linq_training\bin\Debug\netcoreapp3.1\linq_training.runtimeconfig.json
+C:\Users\sugar\source\repos\linq_training\linq_training\bin\Debug\netcoreapp3.1\linq_training.runtimeconfig.dev.json
+C:\Users\sugar\source\repos\linq_training\linq_training\bin\Debug\netcoreapp3.1\linq_training.dll
+C:\Users\sugar\source\repos\linq_training\linq_training\bin\Debug\netcoreapp3.1\linq_training.pdb
+C:\Users\sugar\source\repos\linq_training\linq_training\obj\Debug\netcoreapp3.1\linq_training.csprojAssemblyReference.cache
+C:\Users\sugar\source\repos\linq_training\linq_training\obj\Debug\netcoreapp3.1\linq_training.AssemblyInfoInputs.cache
+C:\Users\sugar\source\repos\linq_training\linq_training\obj\Debug\netcoreapp3.1\linq_training.AssemblyInfo.cs
+C:\Users\sugar\source\repos\linq_training\linq_training\obj\Debug\netcoreapp3.1\linq_training.csproj.CoreCompileInputs.cache
+C:\Users\sugar\source\repos\linq_training\linq_training\obj\Debug\netcoreapp3.1\linq_training.dll
+C:\Users\sugar\source\repos\linq_training\linq_training\obj\Debug\netcoreapp3.1\linq_training.pdb
+C:\Users\sugar\source\repos\linq_training\linq_training\obj\Debug\netcoreapp3.1\linq_training.genruntimeconfig.cache
+C:\Users\sugar\source\repos\linq_training\linq_training\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sugar\source\repos\linq_training\linq_training\obj\Debug\netcoreapp3.1\linq_training.csproj.CopyComplete

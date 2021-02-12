@@ -1,0 +1,8 @@
+C:\Users\sugar\source\repos\linq_training\GeolocationManager\bin\Debug\netstandard2.0\GeolocationManager.deps.json
+C:\Users\sugar\source\repos\linq_training\GeolocationManager\bin\Debug\netstandard2.0\GeolocationManager.dll
+C:\Users\sugar\source\repos\linq_training\GeolocationManager\bin\Debug\netstandard2.0\GeolocationManager.pdb
+C:\Users\sugar\source\repos\linq_training\GeolocationManager\obj\Debug\netstandard2.0\GeolocationManager.AssemblyInfoInputs.cache
+C:\Users\sugar\source\repos\linq_training\GeolocationManager\obj\Debug\netstandard2.0\GeolocationManager.AssemblyInfo.cs
+C:\Users\sugar\source\repos\linq_training\GeolocationManager\obj\Debug\netstandard2.0\GeolocationManager.csproj.CoreCompileInputs.cache
+C:\Users\sugar\source\repos\linq_training\GeolocationManager\obj\Debug\netstandard2.0\GeolocationManager.dll
+C:\Users\sugar\source\repos\linq_training\GeolocationManager\obj\Debug\netstandard2.0\GeolocationManager.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUWUBfJ7DmV+gyzFGN8DwerrqOcUZyXh2bv4xAYyFg78PLxagUsdPMLyoCdlfMzrUrL3Ooct3Nx1B4yKdlLuaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sugar\\source\\repos\\lab_4\\lab_4\\lab_4_structs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sugar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

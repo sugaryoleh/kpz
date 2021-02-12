@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hBjIiIP97ipJtYo/P7fnc+iy7mZj8dG/1VC8HaEQCahru4dOPpTSUKLs6EqEB/BcoEKa4f5bP1U+rIweOCPNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sugar\\source\\repos\\linq_training\\linq_training\\lab_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sugar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

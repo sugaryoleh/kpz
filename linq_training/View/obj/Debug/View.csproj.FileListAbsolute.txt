@@ -1,0 +1,17 @@
+C:\Users\sugar\source\repos\linq_training\View\bin\Debug\View.exe.config
+C:\Users\sugar\source\repos\linq_training\View\bin\Debug\View.exe
+C:\Users\sugar\source\repos\linq_training\View\bin\Debug\View.pdb
+C:\Users\sugar\source\repos\linq_training\View\bin\Debug\GeolocationManager.dll
+C:\Users\sugar\source\repos\linq_training\View\bin\Debug\LoadManager.dll
+C:\Users\sugar\source\repos\linq_training\View\bin\Debug\GeolocationManager.pdb
+C:\Users\sugar\source\repos\linq_training\View\bin\Debug\LoadManager.pdb
+C:\Users\sugar\source\repos\linq_training\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\sugar\source\repos\linq_training\View\obj\Debug\View.Form1.resources
+C:\Users\sugar\source\repos\linq_training\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\sugar\source\repos\linq_training\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\sugar\source\repos\linq_training\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\sugar\source\repos\linq_training\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\sugar\source\repos\linq_training\View\obj\Debug\View.exe
+C:\Users\sugar\source\repos\linq_training\View\obj\Debug\View.pdb
+C:\Users\sugar\source\repos\linq_training\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sugar\source\repos\linq_training\View\bin\Debug\Newtonsoft.Json.xml

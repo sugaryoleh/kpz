@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab_4_structs", "lab_4\lab_4_structs.csproj", "{7DABB5FB-AC78-4FC5-A225-B6DC988AF0E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeolocationManager", "..\linq_training\GeolocationManager\GeolocationManager.csproj", "{D75AF188-86EB-4D6C-A6B4-3C8B4CD76799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DABB5FB-AC78-4FC5-A225-B6DC988AF0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DABB5FB-AC78-4FC5-A225-B6DC988AF0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DABB5FB-AC78-4FC5-A225-B6DC988AF0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DABB5FB-AC78-4FC5-A225-B6DC988AF0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75AF188-86EB-4D6C-A6B4-3C8B4CD76799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75AF188-86EB-4D6C-A6B4-3C8B4CD76799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75AF188-86EB-4D6C-A6B4-3C8B4CD76799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75AF188-86EB-4D6C-A6B4-3C8B4CD76799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BE01452-5A81-438E-B37F-C6078C245754}
+	EndGlobalSection
+EndGlobal
